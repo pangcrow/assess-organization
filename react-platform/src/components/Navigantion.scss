@@ -1,0 +1,43 @@
+.sider{
+  min-height: 100vh;
+}
+
+.trigger {
+  font-size: 18px;
+  line-height: 64px;
+  padding: 0 24px;
+  cursor: pointer;
+  transition: color .3s;
+
+  &:hover {
+    color: #1890ff;
+  }  
+}  
+
+#title {
+  height: 60px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+
+  .App-logo {
+    height: 75%;
+    margin-left: 9px;
+    animation: App-logo-spin infinite 20s linear;
+  }
+
+  #title-name {
+    color: #fff;
+    margin-top: 5%;
+  }
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

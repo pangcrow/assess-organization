@@ -1,0 +1,14 @@
+.custom-filter-dropdown {
+    padding: 8px;
+    border-radius: 4px;
+    background: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, .15);
+  }
+//在Firefox下不支持width属性，size设置了还是无效，凉凉/(ㄒoㄒ)/~~
+.file{
+  opacity: 0;
+  position: absolute;
+  z-index: 10;
+  width: 4vh;
+  height: 18px;
+}
