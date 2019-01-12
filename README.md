@@ -17,3 +17,5 @@ npm install
 npm start
 
 chrome/Firefox再安装个Allow-Control-Allow-Origin: * 跨域插件即可获取数据
+
+![](https://github.com/Y-qwq/assess-organization/blob/master/%E5%9B%BE.png)  
