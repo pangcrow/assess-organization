@@ -1,0 +1,2 @@
+organization address£º
+http://localhost:9096/platform/public/index.php/organization/index/index/index

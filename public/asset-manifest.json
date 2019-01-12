@@ -1,0 +1,16 @@
+{
+  "main.css": "__ROOT__/static/css/main.4cab4430.chunk.css",
+  "main.js": "__ROOT__/static/js/main.60229546.chunk.js",
+  "main.js.map": "__ROOT__/static/js/main.60229546.chunk.js.map",
+  "static/css/1.281097fc.chunk.css": "__ROOT__/static/css/1.281097fc.chunk.css",
+  "static/js/1.ba63c8c7.chunk.js": "__ROOT__/static/js/1.ba63c8c7.chunk.js",
+  "static/js/1.ba63c8c7.chunk.js.map": "__ROOT__/static/js/1.ba63c8c7.chunk.js.map",
+  "runtime~main.js": "__ROOT__/static/js/runtime~main.fdd1630c.js",
+  "runtime~main.js.map": "__ROOT__/static/js/runtime~main.fdd1630c.js.map",
+  "static/css/1.281097fc.chunk.css.map": "__ROOT__/static/css/1.281097fc.chunk.css.map",
+  "static/media/logo.svg": "__ROOT__/static/media/logo.5d5d9eef.svg",
+  "static/css/main.4cab4430.chunk.css.map": "__ROOT__/static/css/main.4cab4430.chunk.css.map",
+  "index.html": "__ROOT__/index.html",
+  "precache-manifest.059a83d6a426d33acd4b0cdc58df2b7b.js": "__ROOT__/precache-manifest.059a83d6a426d33acd4b0cdc58df2b7b.js",
+  "service-worker.js": "__ROOT__/service-worker.js"
+}
